@@ -26,15 +26,7 @@
             </template>
             <div>Completed</div>
             <template for:each={completedTasks} for:item ="todo">
-                <div class="item-class" key={todo.todoId}>
-                    <span class="slds-text-heading_label">{todo.todoName}</span>
-                    <lightning-button-icon icon-name="utility:check" class="slds-p-horizontal_medium"
-                    onclick={checkeHandle} title="Checked Todo">
-                    </lightning-button-icon>
-                    <lightning-button-icon icon-name="utility:delete" class="slds-p-horizontal_medium"
-                    onclick={deleteHandle} title="Delete Todo">
-                    </lightning-button-icon>
-                </div>
+                <c-to-do-item key={todo.todoId} todo-id={todo.todoId} todo-name={todo.todoName} done></c-to-do-item>
             </template>
         </lightning-layout-item>
     </lightning-layout>

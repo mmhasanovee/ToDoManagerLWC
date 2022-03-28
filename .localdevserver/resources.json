@@ -1,0 +1,148 @@
+{
+    "7692d71673": {
+        "component://@webruntime/app@en-US": {
+            "dev": "441b918bea"
+        },
+        "component://localdevserver/home@en-US": {
+            "dev": "c0efafa63a"
+        },
+        "component://localdevserver/preview@en-US": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/toDoLWC@en-US": {
+            "dev": "83353cfe30"
+        },
+        "component://c/toDoItem@en-US": {
+            "dev": "0d80769bc8"
+        }
+    },
+    "60ec3f6101": {
+        "component://@webruntime/app@en-US": {
+            "dev": "441b918bea"
+        },
+        "component://localdevserver/preview@en-US": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/toDoLWC@en-US": {
+            "dev": "9a95326b3b"
+        },
+        "component://c/toDoItem@en-US": {
+            "dev": "0d80769bc8"
+        }
+    },
+    "4ad46e4869": {
+        "component://@webruntime/app@en-US": {
+            "dev": "441b918bea"
+        },
+        "component://localdevserver/preview@en-US": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/toDoLWC@en-US": {
+            "dev": "36c65a3b3f"
+        },
+        "component://c/toDoItem@en-US": {
+            "dev": "0d80769bc8"
+        }
+    },
+    "5160cfbb89": {
+        "component://@webruntime/app@en-US": {
+            "dev": "441b918bea"
+        },
+        "component://localdevserver/preview@en-US": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/toDoLWC@en-US": {
+            "dev": "36c65a3b3f"
+        },
+        "component://c/toDoItem@en-US": {
+            "dev": "675bb1f6ec"
+        }
+    },
+    "1b378355cc": {
+        "component://@webruntime/app@en-US": {
+            "dev": "441b918bea"
+        },
+        "component://localdevserver/preview@en-US": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/toDoLWC@en-US": {
+            "dev": "36c65a3b3f"
+        },
+        "component://c/toDoItem@en-US": {
+            "dev": "f40f695dc4"
+        }
+    },
+    "929a85e802": {
+        "component://@webruntime/app@en-US": {
+            "dev": "441b918bea"
+        },
+        "component://localdevserver/preview@en-US": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/toDoLWC@en-US": {
+            "dev": "36c65a3b3f"
+        },
+        "component://c/toDoItem@en-US": {
+            "dev": "92a1da67c1"
+        }
+    },
+    "4b1642e86c": {
+        "component://@webruntime/app@en-US": {
+            "dev": "441b918bea"
+        },
+        "component://localdevserver/preview@en-US": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/toDoLWC@en-US": {
+            "dev": "36c65a3b3f"
+        },
+        "component://c/toDoItem@en-US": {
+            "dev": "99962994ec"
+        }
+    },
+    "bf4d4b37b9": {
+        "component://@webruntime/app@en-US": {
+            "dev": "1c3c9186a7"
+        },
+        "component://localdevserver/preview@en-US": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/toDoLWC@en-US": {
+            "dev": "36c65a3b3f"
+        },
+        "component://c/toDoItem@en-US": {
+            "dev": "928da0c5d5"
+        }
+    },
+    "8d9da2e525": {
+        "component://@webruntime/app@en-US": {
+            "dev": "441b918bea"
+        },
+        "component://localdevserver/preview@en-US": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/toDoLWC@en-US": {
+            "dev": "36c65a3b3f"
+        },
+        "component://c/toDoItem@en-US": {
+            "dev": "e73ca339da"
+        },
+        "component://localdevserver/home@en-US": {
+            "dev": "c0efafa63a"
+        }
+    },
+    "242ebb1c94": {
+        "component://@webruntime/app@en-US": {
+            "dev": "441b918bea"
+        },
+        "component://localdevserver/preview@en-US": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/toDoLWC@en-US": {
+            "dev": "36c65a3b3f"
+        },
+        "component://c/toDoItem@en-US": {
+            "dev": "e73ca339da"
+        }
+    }
+}
