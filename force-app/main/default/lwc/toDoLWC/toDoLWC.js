@@ -8,7 +8,7 @@ export default class ToDoLWC extends LightningElement {
     //gets called as soon as the component is initialized
     connectedCallback() {
         this.getTime();
-
+        this.sampleTodos();
         setInterval(() => {
             this.getTime();
         }, 1000 * 60);
@@ -70,5 +70,28 @@ export default class ToDoLWC extends LightningElement {
         return this.todos && this.todos.length
         ? this.todos.filter(todo => todo.done)
         : [];
+    }
+    
+    sampleTodos(){
+        const todos = [{
+            todoId: 0,
+            todoName: "Life is Boring",
+            done: false,
+            todoDate: new Date()
+        },
+        {
+            todoId: 1,
+            todoName: "Life is Upside",
+            done: false,
+            todoDate: new Date()
+        },
+        {
+            todoId: 2,
+            todoName: "Life is Down",
+            done: true,
+            todoDate: new Date()
+        },
+    ];
+    this.todos = todos;
     }
 }
